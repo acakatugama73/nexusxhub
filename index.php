@@ -988,6 +988,11 @@
             }
         });
     </script>
+
+<a href="/" alt="stats counter free" target="_blank" >
+<img  src="https://sstatic1.histats.com/0.gif?4977134&101" alt="stats counter free" border="0">
+    
 </body>
 </html>
+
 
